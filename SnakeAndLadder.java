@@ -30,5 +30,7 @@ public class SnakeAndLadder{
 				System.out.println("You got snake moved backward position: " + player_Position);
 			}
 		}
+		System.out.println("player_Position won the match and position is : " + player_Position);
+		System.out.println("No.of times the dice rolled:" + count);
 	}
 }
